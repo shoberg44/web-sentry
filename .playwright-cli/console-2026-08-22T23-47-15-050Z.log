@@ -1,0 +1,19 @@
+[     851ms] [LOG] testing header @ https://training.nsc.org/learn/scorm-view/1fd3176f-556d-4511-9b7a-82bea8e83a93?isPreview=false:77
+[    1012ms] [LOG] JQMIGRATE: Migrate is installed, version 3.3.2 @ https://media.thoughtindustries.com/v3/dist/vendor.gulp.bundle.14c54e55.js:3
+[    2286ms] [WARNING] Unrecognized feature: 'speaker'. @ https://fast.tia-ai.com/production/widget.global.js:0
+[    2287ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://fast.tia-ai.com/production/widget.global.js:0
+[    2289ms] [LOG] testing footer @ https://training.nsc.org/learn/scorm-view/1fd3176f-556d-4511-9b7a-82bea8e83a93?isPreview=false:262
+[    2379ms] [WARNING] Hotjar not launching due to suspicious userAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.0.0 Safari/537.36 @ https://static.hotjar.com/c/hotjar-5004243.js?sv=6:2
+[    2511ms] [ERROR] No h1 tag found on the page. @ :0
+[    3297ms] TypeError: Cannot read properties of null (reading 'querySelectorAll')
+    at functionToLoad (https://training.nsc.org/learn/scorm-view/1fd3176f-556d-4511-9b7a-82bea8e83a93?isPreview=false:334:43)
+    at timer (https://training.nsc.org/learn/scorm-view/1fd3176f-556d-4511-9b7a-82bea8e83a93?isPreview=false:284:16)
+[    3586ms] [WARNING] Error: GraphQL error: Current User does not have access.
+    at new t (https://media.thoughtindustries.com/v3/dist/85638-b1efe39d559b34bce576.bundle.js:1:63549)
+    at https://media.thoughtindustries.com/v3/dist/85638-b1efe39d559b34bce576.bundle.js:1:84208
+    at https://media.thoughtindustries.com/v3/dist/85638-b1efe39d559b34bce576.bundle.js:1:93671
+    at Array.forEach (<anonymous>)
+    at https://media.thoughtindustries.com/v3/dist/85638-b1efe39d559b34bce576.bundle.js:1:93648
+    at Array.forEach (<anonymous>)
+    at e.broadcastQueries (https://media.thoughtindustries.com/v3/dist/85638-b1efe39d559b34bce576.bundle.js:1:93597)
+    at https://media.thoughtindustries.com/v3/dist/85638-b1efe39d559b34bce576.bundle.js:1:92698 @ https://media.thoughtindustries.com/v3/dist/vendor.gulp.bundle.14c54e55.js:24

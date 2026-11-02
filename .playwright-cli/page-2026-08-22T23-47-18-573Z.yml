@@ -1,0 +1,14 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - link "Skip to main content" [ref=e5] [cursor=pointer]:
+      - /url: "#main-content"
+    - text: 
+    - generic [ref=e6]:
+      - banner [ref=e8]:
+        - generic [ref=e11]:
+          - link "National Safety Council" [ref=e12] [cursor=pointer]:
+            - /url: /
+          - paragraph [ref=e15]
+          - paragraph [ref=e16]: National Safety Council
+      - main [ref=e17]
+  - iframe
